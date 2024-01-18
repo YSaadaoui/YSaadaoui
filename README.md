@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 **<div align="center">🔷Software Engineer🔷</div>**
 
 
-Welcome to my GitHub profile, I am a Software Enginneer who enjoys sharing my work and contributing to open source projects. I am passionnate about everything related to Java, spring boot, distributed systems, angular end Devops. On this page, you can find a collection of my repos and projects
+Welcome to my GitHub profile. I am a Software Engineer who enjoys sharing my work and contributing to open-source projects. I am passionate about everything related to Java, Spring Boot, distributed systems, Angular, and DevOps. On this page, you can find a collection of my repos and projects.
 
 <ul>
     <li>📧 You can contact me at <a href="mailto:saadaoui9youssef@gmail.com">saadaoui9youssef@gmail.com</a></li>
