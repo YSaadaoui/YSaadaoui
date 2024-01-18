@@ -27,8 +27,8 @@ Welcome to my GitHub profile, I am a Software enginner who enjoys sharing my wor
     <li>📧 You can contact me at saadaoui9youssef@gmail.com</li><br>
     <li>🤝I'm open to collaborating on open source projects</li><br>
      <li>💬 Ask me about (if I can help, sure! I will do): 
-    <ol >
-        <li> 🌐 Software Engineering And Web developpement </li>
+    <ol style="list-style-type:none;"><br>
+        <li>🌐 Software Engineering And Web developpement </li>
         <li>☕ Java ecosystem: Spring boot | Microservices</li>
          <li>♾️ Devops</li>
          <li>🅰️ Angular</li>
