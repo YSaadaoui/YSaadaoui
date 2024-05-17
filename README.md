@@ -32,6 +32,7 @@ Welcome to my GitHub profile. I am a Software Engineer who enjoys sharing my wor
             <li>☕ Java ecosystem: Spring Boot | Microservices</li>
             <li>♾️ DevOps</li>
             <li>🅰️ Angular</li>
+            <li>⚛️ React</li>
         </ul>
     </li>
 </ul>
